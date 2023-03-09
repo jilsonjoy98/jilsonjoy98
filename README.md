@@ -1,4 +1,4 @@
-<img height='500' src='https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg'/>
+<img width='100%' src='https://media.licdn.com/dms/image/C5616AQEuqf6qnXKQeA/profile-displaybackgroundimage-shrink_200_800/0/1641996122854?e=2147483647&v=beta&t=TkxQEviCR-IMpSCgC59FRS72X-Z27yywsHMqHv4rk-M'/>
 
 # 💫 About Me:
 🔭 I’m currently working on **Chat App**<br><br> 🌱 I’m currently learning **MERN Stack**<br><br>💬 Ask me about **react, MERN**<br><br>📫 How to reach me **jilsonjoy98@gmail.com**
